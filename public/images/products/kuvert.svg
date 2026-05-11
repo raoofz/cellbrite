@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" fill="none">
+  <rect x="20" y="40" width="80" height="55" rx="3" fill="white" stroke="#DDD" stroke-width="1"/>
+  <path d="M20 43 L60 72 L100 43" stroke="#CCC" stroke-width="1" fill="none"/>
+  <rect x="22" y="50" width="76" height="50" rx="2" fill="white" stroke="#E8E8E8" stroke-width="0.5"/>
+  <path d="M22 52 L60 78 L98 52" stroke="#DDD" stroke-width="0.8" fill="none"/>
+  <rect x="24" y="58" width="72" height="46" rx="2" fill="white" stroke="#EEE" stroke-width="0.5"/>
+  <path d="M24 60 L60 84 L96 60" stroke="#E8E8E8" stroke-width="0.6" fill="none"/>
+  <text x="60" y="125" text-anchor="middle" font-size="5" fill="#666" font-family="Arial">5 st</text>
+  <text x="60" y="135" text-anchor="middle" font-size="5" fill="#999" font-family="Arial">Kuvert</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" fill="none">
+  <rect x="20" y="15" width="80" height="130" rx="8" fill="#FFF8F0" stroke="#E8E0D8" stroke-width="1"/>
+  <rect x="35" y="45" width="6" height="70" rx="2" fill="#1a4ed8"/>
+  <rect x="35" y="40" width="6" height="8" rx="1" fill="#333"/>
+  <rect x="36" y="115" width="4" height="8" fill="#C0C0C0"/>
+  <rect x="55" y="50" width="6" height="70" rx="2" fill="#1a4ed8"/>
+  <rect x="55" y="45" width="6" height="8" rx="1" fill="#333"/>
+  <rect x="56" y="120" width="4" height="8" fill="#C0C0C0"/>
+  <rect x="75" y="48" width="6" height="70" rx="2" fill="#1a4ed8" opacity="0.6"/>
+  <rect x="75" y="43" width="6" height="8" rx="1" fill="#333" opacity="0.6"/>
+  <text x="60" y="138" text-anchor="middle" font-size="5" fill="#666" font-family="Arial">2-pack</text>
+  <text x="60" y="32" text-anchor="middle" font-size="6" fill="#333" font-family="Arial" font-weight="bold">Kulpennor</text>
+</svg>

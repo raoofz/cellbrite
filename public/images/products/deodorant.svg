@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" fill="none">
+  <rect x="38" y="10" width="44" height="14" rx="4" fill="#1a1f2e"/>
+  <rect x="35" y="24" width="50" height="120" rx="6" fill="#1a1f2e"/>
+  <rect x="35" y="24" width="50" height="120" rx="6" fill="url(#deo_grad)"/>
+  <rect x="42" y="50" width="36" height="60" rx="3" fill="white" opacity="0.15"/>
+  <text x="60" y="68" text-anchor="middle" font-size="7" fill="white" font-family="Arial" font-weight="bold">LaB</text>
+  <text x="60" y="82" text-anchor="middle" font-size="5" fill="white" font-family="Arial" opacity="0.8">SERIES</text>
+  <text x="60" y="100" text-anchor="middle" font-size="5" fill="white" font-family="Arial" opacity="0.6">Deodorant</text>
+  <text x="60" y="112" text-anchor="middle" font-size="4" fill="white" font-family="Arial" opacity="0.5">150 ml</text>
+  <defs>
+    <linearGradient id="deo_grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a3040"/>
+      <stop offset="100%" stop-color="#111318"/>
+    </linearGradient>
+  </defs>
+</svg>
