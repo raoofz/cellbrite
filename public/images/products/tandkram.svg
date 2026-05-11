@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" fill="none">
+  <rect x="45" y="15" width="30" height="15" rx="3" fill="#E8E8E8"/>
+  <rect x="50" y="8" width="20" height="10" rx="10" fill="#CCCCCC"/>
+  <rect x="35" y="30" width="50" height="100" rx="6" fill="white" stroke="#E0E0E0" stroke-width="1"/>
+  <rect x="38" y="55" width="44" height="45" rx="3" fill="#4A9FD9" opacity="0.15"/>
+  <rect x="38" y="33" width="44" height="22" rx="3" fill="#4A9FD9"/>
+  <text x="60" y="47" text-anchor="middle" font-size="7" fill="white" font-family="Arial" font-weight="bold">FRESH</text>
+  <text x="60" y="75" text-anchor="middle" font-size="6" fill="#333" font-family="Arial" font-weight="bold">Tandkräm</text>
+  <text x="60" y="87" text-anchor="middle" font-size="5" fill="#666" font-family="Arial">75 ml</text>
+  <circle cx="60" cy="110" r="8" fill="#4A9FD9" opacity="0.2"/>
+</svg>
